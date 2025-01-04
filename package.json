@@ -1,0 +1,11 @@
+{
+  "name": "web3-alchemy-json-api-activity",
+  "scripts": {
+    "test": "node client/index.js"
+  },
+  "dependencies": {
+    "alchemy-sdk": "^3.5.0",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7"
+  }
+}
